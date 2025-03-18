@@ -1,0 +1,7 @@
+C:\Users\Анхель Гонсален\Desktop\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\Анхель Гонсален\Desktop\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+C:\Users\Анхель Гонсален\Desktop\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+C:\Users\Анхель Гонсален\Desktop\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.AssemblyReference.cache
+C:\Users\Анхель Гонсален\Desktop\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Анхель Гонсален\Desktop\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\Анхель Гонсален\Desktop\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
